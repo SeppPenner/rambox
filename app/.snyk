@@ -7,6 +7,6 @@ patch:
     - '@exponent/electron-cookies > tough-cookie-web-storage-store > lodash':
         patched: '2019-07-04T07:25:18.755Z'
     - snyk > snyk-mvn-plugin > lodash:
-        patched: '2019-07-10T07:11:23.584Z'
+        patched: '2019-07-10T07:11:31.158Z'
     - snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash:
-        patched: '2019-07-10T07:11:23.584Z'
+        patched: '2019-07-10T07:11:31.158Z'
