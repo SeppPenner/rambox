@@ -5,4 +5,4 @@ ignore: {}
 patch:
   SNYK-JS-LODASH-450202:
     - '@exponent/electron-cookies > tough-cookie-web-storage-store > lodash':
-        patched: '2019-07-04T07:25:18.755Z'
+        patched: '2019-07-05T05:26:13.375Z'
