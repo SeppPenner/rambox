@@ -12,6 +12,6 @@ patch:
         patched: '2019-07-10T07:11:31.158Z'
   SNYK-JS-HTTPSPROXYAGENT-469131:
     - snyk > proxy-agent > https-proxy-agent:
-        patched: '2019-10-05T05:25:23.786Z'
+        patched: '2019-10-05T07:23:00.496Z'
     - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
-        patched: '2019-10-05T05:25:23.786Z'
+        patched: '2019-10-05T07:23:00.496Z'
